@@ -15,7 +15,7 @@ export default defineNuxtConfig({
       title: "Analytics",
       link: [
         // Favicon
-        { rel: "icon", type: "image/x-icon", href: "/icon.svg" },
+        { rel: "icon", type: "image/x-icon", href: "/logo.svg" },
         //Inter font
         { rel: "stylesheet", href: "https://rsms.me/inter/inter.css" },
         { rel: "preconnect", href: "https://rsms.me/" },
